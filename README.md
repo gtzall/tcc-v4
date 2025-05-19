@@ -1,4 +1,4 @@
-QuizMaster - Aplicação de Quiz Educacional
+ - Aplicação de Quiz Educacional -
 
 1. Sobre o Projeto
 
